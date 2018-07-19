@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://cf.ltkcdn.net/home-school/images/slide/74966-780x615-Gorilla.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://pixfeeds.com/images/animals/koalas/320-121209611-koala.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://cf.ltkcdn.net/home-school/images/slide/74968-836x574-Tiger.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQurzqzWWZyeUj0fYZP5oxugqCW1tkVctkspuF_LY0Ia7M030",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/originals/2e/37/cb/2e37cb5cd161bc75957e75c90c8df548.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://bhoriya.files.wordpress.com/2016/06/animal-leopard-3746687.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://cf.ltkcdn.net/home-school/images/std/226934-675x450-costa-rica-glass-frog.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://i1.wp.com/www.luxeinacity.com/wp-content/uploads/2014/12/Jungle-Animals-in-Botswana-Discovering-Natures-Best.jpg?fit=670%2C447&ssl=1",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "http://s1.thingpic.com/images/TV/DZF35SqWs8kX1Hj2nKC2r7KP.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://cdns.abclocal.go.com/content/creativecontent/images/cms/448383_1280x720.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://static1.squarespace.com/static/5388e453e4b0813d343199fc/t/55a52e3ee4b0fab8ce151083/1436888640477/Blue+and+Gold+Macaw",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://media.buzzle.com/media/images-en/gallery/mammals/monkeys/600-506098108-monkey-in-chiangmai.jpg",
+        "clicked": false
+    }
+]

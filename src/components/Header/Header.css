@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+.header{
+  font-family: 'Arvo', serif;
+}
+.App-header {
+    background-color: rgb(33, 77, 26);
+    height: 120px;
+    color: white;
+}
+
+.header-name{
+    padding: 35px;
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+.header-text{
+    padding: 45px;
+    font-size: 18px;
+}
+
+.game-score{
+  background-color: rgb(122, 120, 120);
+  color: white;
+  padding: 10px;
+}
